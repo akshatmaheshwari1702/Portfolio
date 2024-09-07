@@ -20,18 +20,18 @@ function Portfolio() {
     {
       laptopImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj2laptop',
       mobileImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj2mob',
-      title: "Time Tracer Website",
-      description: "A web app for tracking time, offering countdown and elapsed time functionalities. Input a target date to see the remaining or elapsed time, featuring a user-friendly interface and a responsive, modern design.",
-      // demoLink: "https://timetracer9.netlify.app/",
-      // codeLink: "https://github.com/Anuj579/TimeTracer"
+      title: "Resume Generator",
+      description: "A web app for resume with a basic layout,featuring a user-friendly interface and a responsive, modern design.",
+      demoLink: "https://resume-generator-one.vercel.app/",
+      codeLink: "https://github.com/akshatmaheshwari1702/Resume-Generator"
     },
     {
       laptopImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj3laptop',
       mobileImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj3mob',
-      title: "Tax Calculator",
-      description: "A web app for calculating income after tax deductions. Input your gross income, extra income, and age group to get accurate results, displayed in INR. Includes user-friendly error handling and supports multiple tax rates.",
-      // demoLink: "https://taxcalculator99.netlify.app/",
-      // codeLink: "https://github.com/Anuj579/Tax-calculator"
+      title: "J Curve Media",
+      description: "A web app designed to showcase the clients portfolio and clients motive for brands. Includes user-friendly error handling and supports multiple tax rates.",
+      demoLink: "https://jcurve-media.vercel.app/",
+      codeLink: "https://github.com/akshatmaheshwari1702/Jcurve-Media"
     },
     {
       laptopImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj4laptop',
