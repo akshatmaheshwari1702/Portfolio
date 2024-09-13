@@ -36,10 +36,10 @@ function Portfolio() {
     {
       laptopImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj4laptop',
       mobileImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj4mob',
-      title: "Todo App",
-      description: "An intuitive Todo application allowing easy theme switching between light and dark modes. It lets you add, edit, and delete tasks with the ability to manage multiple items simultaneously and clear selected tasks with a single click.",
-      // demoLink: "https://mytodoapp9.netlify.app/",
-      // codeLink: "https://github.com/Anuj579/ToDo-App-ReactJS"
+      title: "Navrachna",
+      description: "An website built for College event Navrachna to showcase the event for techno-events",
+      demoLink: "https://navrachanaa.netlify.app",
+      codeLink: "https://github.com/akshatmaheshwari1702/Navrachanaa"
     },
     {
       laptopImg: 'https://res.cloudinary.com/dn2xodesd/image/upload/f_auto,q_auto/proj5laptop',
@@ -67,7 +67,7 @@ function Portfolio() {
     },
   ];
 
-  const visibleProjects = showAll ? projects : projects.slice(0, 3);
+  const visibleProjects = showAll ? projects : projects.slice(0, 4);
 
   return (
     <>
